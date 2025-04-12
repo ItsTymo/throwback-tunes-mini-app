@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Throwback Tunes",
+    "iconUrl": "https://yourdomain.com/icon.png",
+    "homeUrl": "https://yourdomain.com",
+    "imageUrl": "https://yourdomain.com/default-opengraph.jpg",
+    "buttonTitle": "🎵 Get Throwback Tune",
+    "splashImageUrl": "https://yourdomain.com/icon.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
