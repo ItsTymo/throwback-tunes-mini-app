@@ -8,5 +8,15 @@
     "buttonTitle": "🎵 Get Throwback Tune",
     "splashImageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
     "splashBackgroundColor": "#000000"
-  }
+  },
+    "name": "Throwback Tunes",
+    "description": "Get a random throwback song from your favorite decade.",
+    "developer": {
+      "name": "Tymo",
+      "website": "https://its.tymo.online"
+    },
+    "app": {
+      "platform": "nextjs",
+      "url": "https://throwback-tune-miniapp.vercel.app"
+    }
 }
