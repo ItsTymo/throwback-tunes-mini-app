@@ -1,0 +1,13 @@
+{
+    "name": "Throwback Tunes",
+    "description": "Get a random throwback song from your favorite decade.",
+    "developer": {
+      "name": "Tymo",
+      "website": "https://its.tymo.online"
+    },
+    "app": {
+      "platform": "nextjs",
+      "url": "https://throwback-tune-miniapp.vercel.app"
+    }
+  }
+  
