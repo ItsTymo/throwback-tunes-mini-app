@@ -2,11 +2,11 @@
   "frame": {
     "version": "1",
     "name": "Throwback Tunes",
-    "iconUrl": "https://yourdomain.com/icon.png",
-    "homeUrl": "https://yourdomain.com",
-    "imageUrl": "https://yourdomain.com/default-opengraph.jpg",
+    "iconUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
+    "homeUrl": "https://throwback-tune-miniapp.vercel.app",
+    "imageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
     "buttonTitle": "🎵 Get Throwback Tune",
-    "splashImageUrl": "https://yourdomain.com/icon.png",
+    "splashImageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
     "splashBackgroundColor": "#000000"
   }
 }

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@farcaster/frame-sdk": "^0.0.34",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "vercel": "^41.6.0"
