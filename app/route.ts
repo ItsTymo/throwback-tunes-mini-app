@@ -2,16 +2,16 @@ import { getRandomSong } from "../src/utils/getRandomSong";
 
 export async function GET() {
   return new Response(`<html><head>
-    <meta property="og:image" content="https://yourdomain.com/default-opengraph.jpg" />
+    <meta property="og:image" content="https://throwback-tune-miniapp.vercel.app/og_image.png" />
     <meta name="fc:frame" content='{
       "version": "next",
-      "imageUrl": "https://yourdomain.com/default-opengraph.jpg",
+      "imageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
       "button": {
         "title": "🎵 Get Throwback Tune",
         "action": {
           "type": "launch_frame",
-          "url": "https://yourdomain.com",
-          "splashImageUrl": "https://yourdomain.com/icon.png",
+          "url": "https://throwback-tune-miniapp.vercel.app",
+          "splashImageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
           "splashBackgroundColor": "#000000"
         }
       }
@@ -25,10 +25,10 @@ export async function POST(request: Request) {
   const song = getRandomSong();
 
   return new Response(`<html><head>
-    <meta property="og:image" content="https://yourdomain.com/song-opengraph.jpg" />
+    <meta property="og:image" content="https://throwback-tune-miniapp.vercel.app/og_image.png" />
     <meta name="fc:frame" content='{
       "version": "next",
-      "imageUrl": "https://yourdomain.com/song-opengraph.jpg",
+      "imageUrl": "https://throwback-tune-miniapp.vercel.app/og_image.png",
       "button": {
         "title": "🎧 Listen Now",
         "action": {
